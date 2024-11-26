@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AIDevHackathon.ConsoleApp.AzureOpenAISDK
 {
-    // This class is used to read the configuration from the appsettings.json file
+    // This class is used to read the configuration from the appsettings.json file test
     internal class AzureConfiguration
     {
         private IConfiguration _config = null;
